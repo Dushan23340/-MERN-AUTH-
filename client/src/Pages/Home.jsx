@@ -58,7 +58,7 @@ const DeliverySection = () => (
   <section className="bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 text-white text-center py-16">
     <div className="flex flex-col md:flex-row items-center justify-center gap-8 px-4">
       <div className="flex-1 flex justify-center">
-        <img src="src/assets/images/deliveryGuy.png" alt="Delivery Service" className="rounded-full shadow-lg w-48 md:w-64" />
+        <img src="src/assets/images/delivery.png" alt="Delivery Service" className="rounded-full shadow-lg w-48 md:w-64" />
       </div>
       <div className="flex-1 text-left">
         <h2 className="text-3xl md:text-6xl font-semibold mb-8 font-serif">Delivery Service</h2>
